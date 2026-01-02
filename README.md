@@ -1,0 +1,1 @@
+This project focuses on analyzing organizational expenses against allocated budgets to monitor financial performance and support cost-control decisions. The analysis was performed using Excel and Power Query for data cleaning and preprocessing, and Power BI for data modeling and visualization, following a star schema design.
